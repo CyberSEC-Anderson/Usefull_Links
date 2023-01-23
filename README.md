@@ -1,2 +1,2 @@
 # Usefull_Links
-Links úteis para ser utilizados durante trabalhos em CyberSEC
+Links úteis para serem utilizados durante trabalhos em CyberSEC
